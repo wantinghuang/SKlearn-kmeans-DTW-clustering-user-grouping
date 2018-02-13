@@ -1,13 +1,15 @@
-# 2017 Smart Grid Big Data Analytics Competition
-# 低壓智慧電表大數據分析與設計競賽
+# 2017 Smart Grid Big Data Analytics Competition 低壓智慧電表大數據分析與設計競賽
 A project to analyze power usage data offered by Taiwan Power Cooperation in 2017 Smart Grid Big Data Analytics Competition
+
 針對歷史用電資料，利用數值分析等方法，提出具學術或應用價值的研究
 
-## Intro (in English)
+## INTRO (in English)
 
 The goal of this project is to find some useful information through out the history data of power usage and some open data(e.g. weather data).
 We use clustering method to form groups and later we will build deep learning(SVR, RNN, LSTM) model to predict power usage.
 This repository focus on how to do clustering.
+
+* 本篇著重於如何做分群，不包含預測用電量的檔案。
 
 ## 競賽內容
 

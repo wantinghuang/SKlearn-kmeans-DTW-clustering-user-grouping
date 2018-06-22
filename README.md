@@ -1,4 +1,5 @@
-# 2017 Smart Grid Big Data Analytics Competition 低壓智慧電表大數據分析與設計競賽
+# 2017 Smart Grid Big Data Analytics Competition 
+# 低壓智慧電表大數據分析與設計競賽
 A project to analyze power usage data offered by Taiwan Power Cooperation in 2017 Smart Grid Big Data Analytics Competition
 
 針對歷史用電資料，利用數值分析等方法，提出具學術或應用價值的研究

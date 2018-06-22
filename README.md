@@ -4,9 +4,7 @@ A project to analyze power usage data offered by Taiwan Power Cooperation in 201
 
 低壓智慧電表大數據分析與設計競賽。針對歷史用電資料，利用數值分析等方法，提出具學術或應用價值的研究
 
-## INTRO (in English)
-
-The goal of this project is to find some useful information through out the history data of power usage and some open data(e.g. weather data).
+The goal of this project is to find some useful information through out the history data of power usage and some open data (e.g. weather data).
 We use clustering method to form groups and later we will build deep learning(SVR, RNN, LSTM) model to predict power usage.
 This repository focus on how to do clustering.
 
